@@ -10,8 +10,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "GMAS Estados de Cuenta BC",
-  tagline: "Sistema de Gestión y Consulta de Estados de Cuenta",
+  title: "GMAS Visitas Sociales",
+  tagline: "Sistema de Gestión para visitas sociales",
   favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
